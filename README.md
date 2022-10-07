@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @f-Rodeh
-- 👀 I’m interested in security & efficience
+- 👀 I’m interested in UX/UI, security & efficience
 - 🌱 I’m currently learning dart
 - 💞️ I’m looking to collaborate on projects with mentors bc they're awesome
 - 📫 How to reach me: rodri.leche@gmail.com
