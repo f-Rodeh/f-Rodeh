@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @f-Rodeh
 - 👀 I’m interested in front end development
-- 🌱 I’m currently learning fundamentals at The Odin Project 
-- 💞️ I’m looking to collaborate on projects with mentors bc they're awesome
+- 🌱 Currently learning intermediate Front end with JS/React at The Odin Project 
+- 💞️ Mentors are awesome
 - 📫 How to reach me: rodeh.dev@gmail.com
 
 <!---
